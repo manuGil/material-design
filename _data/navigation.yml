@@ -1,9 +1,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
-  - title: "Team"
-    url: /team/
-  - title: "Contact"
-    url: /contact/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
+  - title: "Collaborators"
+    url: /collaborators/
