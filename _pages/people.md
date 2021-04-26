@@ -3,7 +3,7 @@ title: Team Members
 permalink: /people/
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/image-header.jpg
+  image: /assets/images/image-header2.jpeg
   teaser: /assets/images/teaser-header.jpg
 # sidebar:
 #   - title: "Role"

@@ -1,5 +1,5 @@
 ---
-# title: Name Surname
+title: Name Surname
 author: John Doe
 name: Name Surname
 position: member-1
