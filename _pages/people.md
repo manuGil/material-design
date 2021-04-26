@@ -37,3 +37,7 @@ Aenean finibus hendrerit ex. Lorem ipsum dolor sit amet, consectetur adipiscing 
     </a>
   </h2>
 {% endfor %}
+
+
+<!-- TODO: fix permalinks. Github pages add the name of repo as root, but on built site the repo url is not appended to the collection urls>
+
